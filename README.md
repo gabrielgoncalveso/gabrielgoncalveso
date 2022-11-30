@@ -1,6 +1,6 @@
-### Hi there 👋
 
-<img src="https://github.com/gabrielgoncalveso/gabrielgoncalveso/edit/main/devcard.svg" width="400" alt="Gabriel Dev Card"/>
+<img src="https://github.com/gabrielgoncalveso/gabrielgoncalveso/blob/main/devcard.svg" width="325">
+
 
 <!--
 **gabrielgoncalveso/gabrielgoncalveso** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
