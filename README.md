@@ -1,5 +1,7 @@
 <div align="center">
-<img src="https://img.skoob.com.br/iahMoV0_UoLMY802BVnClYh00K0=/170x170/center/top/smart/filters:format(jpeg)/https://skoob.s3.amazonaws.com/usuarios/9997776/9997776SK-V11705877726G.jpg" align="center" />
+<img src="https://i.redd.it/xotczu46o9eb1.gif" align="center" height="150" />
+
+  
 </div>  
   
 
