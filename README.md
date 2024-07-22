@@ -75,9 +75,6 @@ I'm a Full Stack Developer, graduated in Systems Analysis and Development at Fat
 
 <br/>  
 
-## Spotify
-<div align="left"><img src="https://spotify-github-profile.vercel.app/api/view?uid=r3vr0hh299yq4ykrxxwowl2m8&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=false" /></div>  
-
 ## Github Stats  
 <div align="left"><img src="https://github-readme-stats.vercel.app/api?username=gabrielgoncalveso&show_icons=true&count_private=true&hide_border=true" align="left" /></div>  
 
